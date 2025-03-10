@@ -5,6 +5,7 @@ import Favorites from "./pages/Favorites.jsx";
 import NavBar from "./components/NavBar.jsx";
 import "./css/App.css";
 import { MovieProvider } from "./contexts/MovieContext";
+import Card from "./components/Card";
 
 function App() {
   return (
