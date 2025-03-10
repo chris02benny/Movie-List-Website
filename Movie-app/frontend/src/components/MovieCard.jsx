@@ -1,3 +1,4 @@
+//moviecard
 import React from "react";
 import "../css/MovieCard.css";
 import { useMovieContext } from "../contexts/MovieContext";
